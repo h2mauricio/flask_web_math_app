@@ -1,5 +1,5 @@
 # Building and Deploying a Web App using Flask
-Basic Flask application that includes math fucntions and deploy it on a Web interface.
+Basic Flask application that includes math functions and deploy it on a Web interface.
 
 
 # Prerequisites
